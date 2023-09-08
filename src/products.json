@@ -1,0 +1,76 @@
+[
+    {
+        "id":1,
+        "title":"SENZER SG500 Surround Sound Pro Gaming Headset with Noise Cancelling Microphone",
+        "price":169.99,
+        "image":"/images/71ZW0p+mWwL._AC_UY327_FMwebp_QL65_.webp",
+        "image2":"/images/71BG1SEo94L._AC_SY606_.jpg",
+        "image3":"/images/71IOGG8O7ML._AC_SX466_.jpg",
+        "image4":"/images/71dAylpjS6L._AC_SX450_.jpg",
+        "image5":"/images/71mys2+bUeL._AC_SY450_.jpg",
+        "category":"Gaming accessories",
+        "rating":5
+    },
+    {
+        "id":2,
+        "title":"Fiodio Mechanical Gaming Keyboard, LED Rainbow Gaming Backlit",
+        "price":46.11,
+        "image":"/images/71XIwK5G75L._AC_UL480_FMwebp_QL65_.webp",
+        "image2":"/images/71XIwK5G75L._AC_UL480_FMwebp_QL65_.webp",
+        "image3":"/images/71XIwK5G75L._AC_UL480_FMwebp_QL65_.webp",
+        "image4":"/images/71XIwK5G75L._AC_UL480_FMwebp_QL65_.webp",
+        "image5":"/images/71XIwK5G75L._AC_UL480_FMwebp_QL65_.webp",
+        "category":"Gaming accessories",
+        "rating":5
+    },
+    {
+        "id":3,
+        "title":"Redragon S101 Wired Gaming Keyboard and Mouse Combo RGB Backlit Gaming Keyboard with Multimedia Keys Wrist Rest and Red Backlit Gaming Mouse 3200 DPI for Windows PC Gamers",
+        "price":35.99,
+        "image":"/images/71XIwK5G75L._AC_UL480_FMwebp_QL65_.webp",
+        "image2":"/images/71XIwK5G75L._AC_UL480_FMwebp_QL65_.webp",
+        "image3":"/images/71XIwK5G75L._AC_UL480_FMwebp_QL65_.webp",
+        "image4":"/images/71XIwK5G75L._AC_UL480_FMwebp_QL65_.webp",
+        "image5":"/images/71XIwK5G75L._AC_UL480_FMwebp_QL65_.webp",
+        "category":"Gaming accessories",
+        "rating":4
+    },
+    {
+        "id":4,
+        "title":"Wired RGB Gaming Mouse, RaceGT Ultra-Lightweight, Honeycomb Shell,RGB LED Lightweight Smooth Glide PTFE Feet, Hyperflex USB Cable, 800 to 8000 DPI for Windows PC Gamers (Black)",
+        "price":14.99,
+        "image":"/images/612TIgkt7aL._AC_UY327_FMwebp_QL65_.webp",
+        "image2":"/images/612TIgkt7aL._AC_UY327_FMwebp_QL65_.webp",
+        "image3":"/images/612TIgkt7aL._AC_UY327_FMwebp_QL65_.webp",
+        "image4":"/images/612TIgkt7aL._AC_UY327_FMwebp_QL65_.webp",
+        "image5":"/images/612TIgkt7aL._AC_UY327_FMwebp_QL65_.webp",
+        "category":"Gaming accessories",
+        "rating":5
+    },
+    {
+        "id":5,
+        "title":"Amazon Basics Kids/Youth Gaming Recliner with Headrest and Back Pillow, 3+ Age Group, Black and Red",
+        "price":169.99,
+        "image":"/images/71KYhORbEUL._AC_SX466_.jpg",
+        "image2":"/images/71KYhORbEUL._AC_SX466_.jpg",
+        "image3":"/images/71KYhORbEUL._AC_SX466_.jpg",
+        "image4":"/images/71KYhORbEUL._AC_SX466_.jpg",
+        "image5":"/images/71KYhORbEUL._AC_SX466_.jpg",
+        "category":"Gaming accessories",
+        "rating":4
+    },
+    {
+        "id":6,
+        "title":"Brickell Men's Advanced Anti-Aging Skin Care Set, Night Face Cream, Vitamin C Facial Serum and Eye Cream, Natural and Organic, Scented, Skin Care Gift Set",
+        "price":169.99,
+        "image":"/images/714w+C9q9CL._AC_UL480_FMwebp_QL65_.webp",
+        "image2":"/images/714w+C9q9CL._AC_UL480_FMwebp_QL65_.webp",
+        "image3":"/images/714w+C9q9CL._AC_UL480_FMwebp_QL65_.webp",
+        "image4":"/images/714w+C9q9CL._AC_UL480_FMwebp_QL65_.webp",
+        "image5":"/images/714w+C9q9CL._AC_UL480_FMwebp_QL65_.webp",
+        "category":"Health & Personal Care",
+        "rating":5
+    }
+
+
+]
